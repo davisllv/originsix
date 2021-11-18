@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
